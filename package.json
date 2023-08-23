@@ -1,0 +1,21 @@
+{
+  "name": "qf-test",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "author": "王凯",
+  "license": "MIT",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "千锋",
+    "qf"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "private": false,
+  "typings": "lib/index.d.ts"
+}
