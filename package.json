@@ -16,6 +16,13 @@
   "sideEffects": [
     "**/*.css"
   ],
+  "scripts": {
+    "release": "release-it"
+  },
   "private": false,
-  "typings": "lib/index.d.ts"
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangkai123456/qf-ui-test"
+  }
 }
